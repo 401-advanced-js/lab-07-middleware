@@ -5,6 +5,11 @@
 
 ### Author: Student/Group Name
 
+
+* [Testing](https://github.com/401-advanced-js/lab-07-testing)
+* [Middleware](https://github.com/401-advanced-js/lab-07-middleware)
+* [ApiServer](https://github.com/401-advanced-js/lab-07-api-server)
+
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
